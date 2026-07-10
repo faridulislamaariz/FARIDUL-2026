@@ -72,7 +72,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1,DBC NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1,BB
+#EXTINF:-1,CHANNEL 9 HD 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 
@@ -88,6 +88,9 @@ https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 
 #EXTINF:-1,Thunder 
 https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
+
+#EXTINF:-1,SRK TV 
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u
 
 #EXTINF:-1,BuddyStar HD 
 https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
